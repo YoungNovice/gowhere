@@ -23,20 +23,8 @@
 <script>
 export default {
   name: 'HomeRecommend',
-  data () {
-    return {
-      list: [{
-        id: '001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1409/24/5ce5ccfc33c08ac22b346e71ef16d02b.jpg_200x200_4810c5ee.jpg',
-        title: '极地海洋世界',
-        desc: '浪漫的海洋主题公园'
-      }, {
-        id: '002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1409/24/5ce5ccfc33c08ac22b346e71ef16d02b.jpg_200x200_4810c5ee.jpg',
-        title: '极地海洋世界',
-        desc: '浪漫的海洋主题公园'
-      }]
-    }
+  props: {
+    list: Array
   }
 }
 </script>

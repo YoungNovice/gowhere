@@ -1,0 +1,76 @@
+{
+  "ret": true,
+  "data": {
+    "city" : "深圳",
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201912/9accc56ec000de669ce90d0b3f44af86.jpg_750x200_b35b86a0.jpg"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201911/f74957827d190508c2598fb79ec36102.jpg_750x200_2960f17f.jpg"
+    }],
+    "iconList": [{
+          "id": "1",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+          "desc": "热门景点"
+        }, {
+          "id": "2",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/35/9639025c30a3d802.png",
+          "desc": "宝山湖"
+        }, {
+          "id": "3",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+          "desc": "客天下"
+        }, {
+          "id": "4",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+          "desc": "玩转长隆"
+        }, {
+          "id": "5",
+          "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/bda58ffc3016edad84e656e8a94b0321.png",
+          "desc": "广州融创"
+        }, {
+          "id": "6",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+          "desc": "深圳欢乐谷"
+        }, {
+          "id": "7",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ee/5114069893722102.png",
+          "desc": "瀑布"
+        }, {
+          "id": "8",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/a6/6d97515091789602.png",
+          "desc": "世界之窗"
+        }, {
+          "id": "9",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+          "desc": "汕头方特"
+        }, {
+          "id": "10",
+          "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+          "desc": "丹霞山"
+        }],
+    "recommendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/24/5ce5ccfc33c08ac22b346e71ef16d02b.jpg_200x200_4810c5ee.jpg",
+        "title": "极地海洋世界",
+        "desc": "浪漫的海洋主题公园"
+      }, {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/24/5ce5ccfc33c08ac22b346e71ef16d02b.jpg_200x200_4810c5ee.jpg",
+        "title": "极地海洋世界",
+        "desc": "浪漫的海洋主题公园"
+      }],
+    "weekendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      }, {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      }]
+  }
+}

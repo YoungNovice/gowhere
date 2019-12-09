@@ -58,6 +58,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
+    // 这个是打包的关键路径
     assetsPublicPath: '/',
 
     /**

@@ -5,7 +5,7 @@
         <div class="title border-topbottom">当前城市</div>
         <div class="button-list">
           <div class="button-wrapper">
-            <div class="button">df</div>
+            <div class="button">{{this.$store.state.city}}</div>
           </div>
         </div>
       </div>
@@ -60,7 +60,12 @@ export default {
   },
   methods: {
     handleCityClick (city) {
+      // 通过dispatch调用actions
+      // this.$store.dispatch('changeCity', city)
+      // 通过commit直接调用mutations
+      // this.$store.commit('changeCity', city)
       this.changeCity(city)
+      // 这个$router是没有vue对象都有的
       this.$router.push('/')
     },
     ...mapMutations(['changeCity'])

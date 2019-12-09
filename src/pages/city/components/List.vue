@@ -66,7 +66,7 @@ export default {
     ...mapMutations(['changeCity'])
   },
   watch: {
-    letter () {
+    letter (newVal, oldVal) {
       if (this.letter) {
         const element = this.$refs[this.letter][0]
         this.scroll.scrollToElement(element)

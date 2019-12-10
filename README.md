@@ -20,3 +20,10 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+### use cnpm
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+eg : cnpm install --- cnpm install express
+
+revert
+npm config set regitry https://registry.npmjs.org
+

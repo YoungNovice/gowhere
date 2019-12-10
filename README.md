@@ -25,5 +25,5 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 eg : cnpm install --- cnpm install express
 
 revert
-npm config set regitry https://registry.npmjs.org
+npm config set registry https://registry.npmjs.org
 
